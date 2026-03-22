@@ -16,7 +16,6 @@ cultivation/
     │               ├── Main.java     # Main entry point
     │               ├── leetcode/     # LeetCode problems
     │               ├── hackerrank/   # HackerRank problems
-    │               └── utils/        # Utility classes
     └── test/
         └── java/
             └── com/
@@ -62,11 +61,6 @@ mvn clean package
 - HackerRank specific problems
 - Includes multiple solution approaches when applicable
 - Contains test methods for verification
-
-### Utility Classes (`com.practice.utils`)
-- `ArrayUtils`: Common array operations
-- `StringUtils`: Common string operations
-- Reusable across different problems
 
 ## Example Usage
 
